@@ -2,7 +2,7 @@ from flask import Flask, request, jsonify
 import os
 import yt_dlp
 import whisper
-import moviepy.editor as mp
+import moviepy.editor  # ← Cambiado aquí
 import uuid
 import tempfile
 from deep_translator import GoogleTranslator
