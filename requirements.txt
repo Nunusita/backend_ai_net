@@ -1,0 +1,5 @@
+flask
+yt-dlp
+whisper
+moviepy
+deep_translator
