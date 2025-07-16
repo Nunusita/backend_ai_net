@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# Activar el entorno virtual de Python
-source .venv/bin/activate
+# Ejecutar con el Python del entorno virtual directamente
+./.venv/bin/python3 main.py
 
-# Ejecutar tu backend
-python3 main.py
