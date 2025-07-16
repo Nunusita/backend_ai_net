@@ -1,5 +1,8 @@
 flask
-yt-dlp
-whisper
 moviepy
+yt-dlp
+openai
+whisper
 deep-translator
+python-dotenv
+

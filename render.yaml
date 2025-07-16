@@ -3,5 +3,6 @@ services:
     name: backend_ai_net
     env: python
     buildCommand: "pip install -r requirements.txt"
-    startCommand: "python3 main.py"
+    startCommand: "bash run.sh"
     pythonVersion: 3.10.13
+
